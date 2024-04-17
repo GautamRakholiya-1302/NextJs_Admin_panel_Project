@@ -1,4 +1,4 @@
-# Adminify
+# Admin_Panel_Simple_Project
 
 this project is a sophisticated admin panel developed using Next.js, designed for efficient management and oversight of web applications. This platform offers a comprehensive set of tools for user management, content moderation, and viewing analytics, all within a secure and user-friendly environment.
 
